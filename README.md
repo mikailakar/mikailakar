@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikail</h1>
-<h3 align="center">A passionate game developer</h3>
+<h3 align="center">A passionate Back-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikailakar&label=Profile%20views&color=0e75b6&style=flat" alt="mikailakar" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mkllakr" target="blank"><img src="https://img.shields.io/twitter/follow/mkllakr?logo=twitter&style=for-the-badge" alt="mkllakr" /></a> </p>
 
-- 🔭 I’m currently working on **my mobile games**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **C# and Unity**
+- 🌱 I’m currently learning **DotNet and Unity**
 
 - 📫 How to reach me **mikailakr42@gmail.com**
 
