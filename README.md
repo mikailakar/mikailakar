@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikailakar&show_icons=true&locale=en&layout=compact" alt="mikailakar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikailakar&show_icons=true&locale=en" alt="mikailakar" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mikailakar)](https://git.io/streak-stats)
