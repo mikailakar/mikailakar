@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mkllakr" target="blank"><img src="https://img.shields.io/twitter/follow/mkllakr?logo=twitter&style=for-the-badge" alt="mkllakr" /></a> </p>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **Entity Framework**
 
 - 🌱 I’m currently learning **DotNet and Unity**
 
